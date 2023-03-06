@@ -14,3 +14,7 @@ One all the requirements are installed, download the git repository with `git cl
 ## Support Projects
 
 As for right now, only summarization is supported. I'm working on implementing my other projects soon, though.
+
+# Summarization
+
+To use the summarization model, a few steps will be necessary. First navigate to the Seq2SeqV1 git project page -- https://github.com/dashblack576/seq2seqV1. After cloning that repository and following all the download steps, move the Model directory and vocab.txt file into the summarization directory. After doing that you should be able to access the summerization page.
